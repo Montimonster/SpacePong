@@ -1,3 +1,4 @@
 # SpacePong
-Juego Space pong
-añadir funcionalidad
+Juego Space pong en Java utilizando swing y awt
+
+
